@@ -10,6 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site. This is a build! VERSION 2</p>
+    <p>Welcome to your new Gatsby site. Again.</p>
     <p>{process.env.GATSBY_TEST_VAR}</p>
     <p>Now go build something great.</p>
     <div style={{maxWidth: `300px`, marginBottom: `1.45rem`}}>
