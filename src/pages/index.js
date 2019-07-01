@@ -22,9 +22,11 @@ const IndexPage = () => (
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
+    <p>Now go build something great. 2</p>
     <p>Now go build something great. 5</p>
     <p>Now go build something great. 6</p>
     <p>Now go build something great. 2</p>
+    <p>Now go build something great. 10</p>
     <p>Now go build something great. 10</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
