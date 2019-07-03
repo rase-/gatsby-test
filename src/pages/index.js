@@ -14,7 +14,6 @@ const IndexPage = () => (
     <p>{process.env.GATSBY_TEST_VAR}</p>
     <p>Now go build something great.</p>
     <p>Now go build something great. 2</p>
-    <p>Now go build something great. 2</p>
     <p>Now go build something great. 5</p>
     <p>Now go build something great. 10</p>
     <p>Now go build something great. 6</p>
