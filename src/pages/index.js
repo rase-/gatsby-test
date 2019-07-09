@@ -20,7 +20,6 @@ const IndexPage = () => (
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
-    <p>Now go build something great. 2</p>
     <p>Now go build something great. 3</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
