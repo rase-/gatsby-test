@@ -26,7 +26,6 @@ const IndexPage = () => (
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 2</p>
-    <p>Now go build something great. 2</p>
     <p>Now go build something great. 3</p>
     <div style={{maxWidth: `300px`, marginBottom: `1.45rem`}}>
       <Image />
