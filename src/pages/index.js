@@ -13,7 +13,6 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site. Again.</p>
     <p>{process.env.GATSBY_TEST_VAR}</p>
     <p>Now go build something great. 1</p>
-    <p>Now go build something great. 2</p>
     <div style={{maxWidth: `300px`, marginBottom: `1.45rem`}}>
       <Image />
     </div>
