@@ -13,7 +13,6 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site. Again.</p>
     <p>{process.env.GATSBY_TEST_VAR}</p>
     <p>Now go build something great.</p>
-    <p>Now go build something great. 2</p>
     <p>Now go build something great. 3</p>
     <p>Now go build something great. 2</p>
     <p>Now go build something great. 3</p>
