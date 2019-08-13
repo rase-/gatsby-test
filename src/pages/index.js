@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site. This is a build! VERSION 2</p>
+    <p>Welcome to your new Gatsby site. This is a build! VERSION NETLIFY</p>
     <p>Welcome to your new Gatsby site. Again.</p>
     <p>{process.env.GATSBY_TEST_VAR}</p>
     <p>Now go build something great. 1</p>
