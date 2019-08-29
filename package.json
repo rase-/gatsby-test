@@ -10,7 +10,7 @@
     "gatsby-plugin-manifest": "^2.0.17",
     "gatsby-plugin-offline": "^2.0.22",
     "gatsby-plugin-react-helmet": "^3.0.6",
-    "gatsby-plugin-sharp": "2.1.10-sharp-content-hash.614",
+    "gatsby-plugin-sharp": "latest",
     "gatsby-source-filesystem": "^2.0.20",
     "gatsby-transformer-sharp": "^2.1.13",
     "prop-types": "^15.6.2",
@@ -18,7 +18,9 @@
     "react-dom": "^16.7.0",
     "react-helmet": "^5.2.0"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
